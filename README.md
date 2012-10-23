@@ -1,7 +1,7 @@
 Gestion_de_Reclamos
 ===================
+Taller de Proyecto 1
 
-TP1
 Integrantes:
 Christian Quispe
 Dan Torres
