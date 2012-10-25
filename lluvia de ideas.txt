@@ -1,4 +1,6 @@
-Lluvi a de ideas
+Lluvia de ideas
+ Definicion de Alcance
+	Data a clientes
  Especificacion de Reglas de negocios:
 	- Todo consumidor puede presentar reclamos
 	- El porcentaje de reclamos atendidos debe ser como minimo 90%
@@ -11,9 +13,24 @@ Lluvi a de ideas
 		Cliente: Persona juridica o natural que consume productos o servicios de la empresa (Para soportar los otros proyectos de eventos, show,etc)
 		Consumidor: Persona que 
 		Auditor de Calidad: Necesita la informacion para obtener los indicadores de reclamos que le permitan mejorar la calidad de la empresa (modulo gerencial)
-		
+	- Casos de uso de Negocio
+		Gestion de Reclamos
 		
 Dudas:
-	- En el caso de reservas el que presenta reclamos puede ser cualquier persona o solamente la persona que consume el producto o servicio (caso de concientos o eventos)
-	
-		
+	- En el caso de reservas el que presenta reclamos puede ser cualquier persona o solamente la persona que consume el producto o servicio (caso de concirentos o eventos)
+
+Pendientes:
+	Definicion de modo de interaccion con Otros JP
+
+Programar Coordinacion entre JP (pero que no sea el sabado)
+	Proveedor Internos:
+		- Karaoke
+		- Espectaculos
+		- MKT
+		- Eventos
+		- CRM
+	Cliente Internos:
+		- Capacitacion
+		- Calidad
+		- Gerencial
+		- MKT
