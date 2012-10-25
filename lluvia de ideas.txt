@@ -8,6 +8,8 @@ Lluvia de ideas
 	- Poner buzon de reclamos en cada local
 	- Los reclamos pueden hacerse por llamada telefonica
 	- El sistema debe soportar obligatoriamente todos los campos requeridos por la norma del libro de reclamaciones
+	- Si el reclamo tiene 20 dias sin resolucion debe general correo informativo a la jefatura
+	- Si el reclamo tiene 25 dias sin resolucion debe general correo de alerta a la jefatura y supervision de calidad
  Modelo de Caso de uso de Negocio
 	- Especificacion de los actores de negocio
 		Cliente: Persona juridica o natural que consume productos o servicios de la empresa (Para soportar los otros proyectos de eventos, show,etc)
