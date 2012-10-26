@@ -1,0 +1,40 @@
+Requisito Pro si permite trabajar en modo multiusuario
+Rational Rose:
+Ayuda en proyectos complejos usando la herramienta de modelamiento de Rational Rose
+Extension Estandar: mdl
+
+Integrador maneja mdl del grupo:
+
+Permite manejar elementos del modelo y el integrador lo administra mediante unidades controladas.
+
+Para el proyecto debe estar ordenado de esta manera:
+
+Vistas:
+	Use Case View  -> Visto hasta ahora  - 
+		01.- Modelo de Casos de Uso de Negocio
+			CUN (Casos de Uso de Negocio)
+			AN (Actores de Negocio)
+			DCUN (Diagrama de Casos de Uso de Negocio)
+			ON (Objetivos de Negocio)
+		02.- Modelo de Casos de Uso del Sistema
+			AS (Actores de sistema
+			CUS
+			DCUS
+	Logical View   -> Visto hasta ahora 
+		01.- Modelo de Analisis de Negocio
+			TN (Trabajadores de Negocio)
+			EN (Entidades de Negocio)
+			Realizaciones de CUN
+				Diagrama de clases de objeto negocio
+				Diagrama Actores
+				Entidades de Casos de Uso de Negocios
+		02.- Modelo de Analisis de Sistema
+		03.- Modelo de Disenho
+	Component View
+	Deployment View
+	
+	
+La unidad controlada se trabaja sobre Paquete
+Click derecho sobre el paquete -> Units -> COntrol CU01
+Al Abrir decirle NO al cuadro de dialogo
+Ubicarme en la unidad controlada a trabajr y abrir el archivo .cat asociado (Units --> Load CU01)
