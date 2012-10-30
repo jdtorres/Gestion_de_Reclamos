@@ -24,6 +24,7 @@ Dudas:
 Pendientes:
 	Definicion de modo de interaccion con Otros JP
 
+
 Programar Coordinacion entre JP (pero que no sea el sabado)
 	Proveedor Internos:
 		- Karaoke
@@ -36,3 +37,18 @@ Programar Coordinacion entre JP (pero que no sea el sabado)
 		- Calidad
 		- Gerencial
 		- MKT
+
+
+OBSERVACIONES DE LA PRIMERA PRESENTACION
+
+Revisar el alcance
+
+Existen dos reglas de negocio RN004 revisar
+rn001 no va
+rn005 no vA
+RN010 NO VA
+RN011 REVIsar
+rn008 no va a partir de esto no sera segun gradi del reclamo..
+
+an001 es 
+an002 es administrar reclamos en ves de gesionar reclamos
